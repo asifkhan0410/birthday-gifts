@@ -1,0 +1,18 @@
+.list_footer{
+    display:flex;
+    align-items: center;
+    place-content: center;
+    height:7%;
+    background-color:#b6d5ff54;
+    background: linear-gradient(45deg, #ccf6d0 , #b6d5ff54);
+}
+.list_footer> h1{
+    font-size: smaller;
+    color: lightslategray;
+    font-weight: 400;
+}
+.list_footer >.MuiSvgIcon-root{
+    fill: red;
+    margin-left: 10px;
+    margin-right: 10px;
+}

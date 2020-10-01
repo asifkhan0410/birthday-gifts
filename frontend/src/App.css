@@ -1,0 +1,7 @@
+.app{
+    display: grid;
+    place-items:center; 
+    height:100vh;
+    background-color: #b6d5ff54;
+    background: linear-gradient(45deg, #ccf6d0 , #b6d5ff54);
+} 
